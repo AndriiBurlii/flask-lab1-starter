@@ -78,3 +78,5 @@ flask-lab1-starter/
 ```
 
 Успіхів!
+## Author
+Andrii Burlii, ІО-32
