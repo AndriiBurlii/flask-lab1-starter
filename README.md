@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+- App: https://flask-lab1-starter.onrender.com/
+- Healthcheck: https://flask-lab1-starter.onrender.com/healthcheck
 # Flask Lab 1 — Starter
 
 Базовий Flask-проєкт із ендпоінтами `/` (вітання) та `/healthcheck` і готовими `Dockerfile` та `docker-compose.yml`. Підходить для деплою на **Render.com**.
